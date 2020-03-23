@@ -1,3 +1,8 @@
+This is a training project containing: 
+  - api call to fetch data
+  - dynamic routing
+  - slots for BaseComponents
+  
 # real-world-vue
 
 ## Project setup
